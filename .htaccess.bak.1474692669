@@ -1,0 +1,4 @@
+# Use PHP5.4 as default
+AddHandler application/x-httpd-php54 .php
+AddHandler application/x-httpd-php56 .php
+AddDefaultCharset utf-8
